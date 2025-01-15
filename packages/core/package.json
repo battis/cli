@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@battis/qui-cli.plugin": "workspace:*",
-    "jackspeak": "^2.3.6"
+    "jackspeak": "^4.0.2"
   },
   "devDependencies": {
     "@battis/typescript-tricks": "^0.7.4",

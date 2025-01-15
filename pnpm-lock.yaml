@@ -45,8 +45,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/qui-cli
       jackspeak:
-        specifier: ^2.3.6
-        version: 2.3.6
+        specifier: ^4.0.2
+        version: 4.0.2
     devDependencies:
       '@tsconfig/node20':
         specifier: ^20.1.4
@@ -89,8 +89,8 @@ importers:
         specifier: workspace:*
         version: link:../plugin
       jackspeak:
-        specifier: ^2.3.6
-        version: 2.3.6
+        specifier: ^4.0.2
+        version: 4.0.2
     devDependencies:
       '@battis/typescript-tricks':
         specifier: ^0.7.4
@@ -188,8 +188,8 @@ importers:
   packages/plugin:
     dependencies:
       jackspeak:
-        specifier: ^2.3.6
-        version: 2.3.6
+        specifier: ^4.0.2
+        version: 4.0.2
     devDependencies:
       '@tsconfig/node20':
         specifier: ^20.1.4
