@@ -40,7 +40,7 @@
     "@battis/qui-cli.root": "workspace:*",
     "@battis/qui-cli.shell": "workspace:*",
     "@battis/qui-cli.validators": "workspace:*",
-    "@inquirer/prompts": "^2.3.1"
+    "@inquirer/prompts": "^7.2.3"
   },
   "devDependencies": {
     "@battis/eslint-config": "latest",
